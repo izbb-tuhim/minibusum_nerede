@@ -1,0 +1,7 @@
+{
+  "name": "İzmir Minibüsüm Nerede",
+  "description": "İzmir Büyükşehir Belediyesi için temsili minibüs takip ve bilgilendirme uygulaması.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
